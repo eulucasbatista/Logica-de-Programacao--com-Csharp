@@ -13,7 +13,6 @@ namespace ProcessamentoDados
             string y = Console.ReadLine();
             string z = Console.ReadLine();
 
-            
 
             string[] v = Console.ReadLine().Split(' ');
             string a = v[0];
@@ -29,7 +28,6 @@ namespace ProcessamentoDados
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine(c);
-
 
         }
     }
