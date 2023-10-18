@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\bin\Debug\net6.0\Exericcio1Matematico.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\bin\Debug\net6.0\Exericcio1Matematico.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\bin\Debug\net6.0\Exericcio1Matematico.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\bin\Debug\net6.0\Exericcio1Matematico.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\bin\Debug\net6.0\Exericcio1Matematico.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\refint\Exericcio1Matematico.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\Exericcio1Matematico.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericcio1Matematico\Exericcio1Matematico\obj\Debug\net6.0\ref\Exericcio1Matematico.dll
