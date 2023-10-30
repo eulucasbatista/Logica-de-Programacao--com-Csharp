@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\bin\Debug\net6.0\Exercicio URI Online Judge.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\bin\Debug\net6.0\Exercicio URI Online Judge.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\bin\Debug\net6.0\Exercicio URI Online Judge.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\bin\Debug\net6.0\Exercicio URI Online Judge.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\bin\Debug\net6.0\Exercicio URI Online Judge.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\refint\Exercicio URI Online Judge.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\Exercicio URI Online Judge.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio URI Online Judge\Exercicio URI Online Judge\obj\Debug\net6.0\ref\Exercicio URI Online Judge.dll
