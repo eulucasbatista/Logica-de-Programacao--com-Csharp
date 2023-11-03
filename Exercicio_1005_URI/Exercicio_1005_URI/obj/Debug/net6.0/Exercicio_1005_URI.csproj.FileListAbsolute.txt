@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\bin\Debug\net6.0\Exercicio_1005_URI.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\bin\Debug\net6.0\Exercicio_1005_URI.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\bin\Debug\net6.0\Exercicio_1005_URI.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\bin\Debug\net6.0\Exercicio_1005_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\bin\Debug\net6.0\Exercicio_1005_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\refint\Exercicio_1005_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\Exercicio_1005_URI.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exercicio_1005_URI\Exercicio_1005_URI\obj\Debug\net6.0\ref\Exercicio_1005_URI.dll
