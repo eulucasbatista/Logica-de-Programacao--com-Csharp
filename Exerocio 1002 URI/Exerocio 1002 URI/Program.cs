@@ -1,10 +1,12 @@
-﻿namespace Exercicio1000_URI_Online
+﻿using System;
+
+namespace Exerocio_1002_URI
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
