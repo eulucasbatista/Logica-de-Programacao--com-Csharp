@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\bin\Debug\net6.0\Funcoes matematicas.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\bin\Debug\net6.0\Funcoes matematicas.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\bin\Debug\net6.0\Funcoes matematicas.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\bin\Debug\net6.0\Funcoes matematicas.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\bin\Debug\net6.0\Funcoes matematicas.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\refint\Funcoes matematicas.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\Funcoes matematicas.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Funcoes matematicas\Funcoes matematicas\obj\Debug\net6.0\ref\Funcoes matematicas.dll

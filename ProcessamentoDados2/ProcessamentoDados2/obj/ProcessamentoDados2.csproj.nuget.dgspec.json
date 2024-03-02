@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj": {
+    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj",
         "projectName": "ProcessamentoDados2",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\ProcessamentoDados2\\ProcessamentoDados2\\ProcessamentoDados2.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\ProcessamentoDados2\\ProcessamentoDados2\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\ProcessamentoDados2\\ProcessamentoDados2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
