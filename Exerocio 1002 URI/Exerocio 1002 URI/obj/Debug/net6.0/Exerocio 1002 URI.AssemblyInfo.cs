@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exerocio 1002 URI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f807dafd1a2c6e871e601d429ae8225dac29b5c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exerocio 1002 URI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exerocio 1002 URI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
