@@ -11,14 +11,8 @@ namespace uri1012
             double valorA, valorB , valorC;
             double triangulo, circulo, trapezio, quadrado, retangulo,pi = 3.14159;
 
-            Console.WriteLine("Digite o valor de A");
-            valorA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-            Console.WriteLine("Digite o valor de B");
-            valorB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-            Console.WriteLine("Digite o valor de C");
-            valorC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            string[] valores = Console.ReadLine().Split(' ');
+           
 
 
             Console.WriteLine("A área do triângulo retângulo que tem A por base e C por altura:");
