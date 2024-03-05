@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\bin\Debug\net6.0\Exercicio_1015.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\bin\Debug\net6.0\Exercicio_1015.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\bin\Debug\net6.0\Exercicio_1015.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\bin\Debug\net6.0\Exercicio_1015.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\bin\Debug\net6.0\Exercicio_1015.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\refint\Exercicio_1015.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\Exercicio_1015.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1015\Exercicio_1015\obj\Debug\net6.0\ref\Exercicio_1015.dll
