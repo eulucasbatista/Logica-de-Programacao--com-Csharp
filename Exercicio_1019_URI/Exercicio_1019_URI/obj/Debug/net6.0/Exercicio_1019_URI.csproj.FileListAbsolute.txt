@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\bin\Debug\net6.0\Exercicio_1019_URI.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\bin\Debug\net6.0\Exercicio_1019_URI.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\bin\Debug\net6.0\Exercicio_1019_URI.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\bin\Debug\net6.0\Exercicio_1019_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\bin\Debug\net6.0\Exercicio_1019_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\refint\Exercicio_1019_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\Exercicio_1019_URI.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1019_URI\Exercicio_1019_URI\obj\Debug\net6.0\ref\Exercicio_1019_URI.dll
