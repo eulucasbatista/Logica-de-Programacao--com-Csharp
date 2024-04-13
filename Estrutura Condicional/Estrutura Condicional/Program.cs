@@ -6,10 +6,23 @@ namespace Estrutura_Condicional
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bom dia!");
-            Console.WriteLine("Boa tarde!");
-            Console.WriteLine("Boa noite!");
+            int horas;
 
+            Console.WriteLine("Quantas horas? ");
+            horas = int.Parse(Console.ReadLine());     
+
+            if (horas < 12) {
+                Console.WriteLine("Bom dia!");
+            }
+
+            else
+            {
+               if ()
+                
+                Console.WriteLine("Boa tarde!");
+            }
+       
+            Console.ReadLine();
         }
     }
 }
