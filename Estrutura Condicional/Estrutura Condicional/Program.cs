@@ -15,11 +15,14 @@ namespace Estrutura_Condicional
                 Console.WriteLine("Bom dia!");
             }
 
+            else if (horas < 18)
+            {
+                Console.WriteLine("Boa tarde!");
+
+            }
             else
             {
-               if ()
-                
-                Console.WriteLine("Boa tarde!");
+                Console.WriteLine("Boa noite!");
             }
        
             Console.ReadLine();

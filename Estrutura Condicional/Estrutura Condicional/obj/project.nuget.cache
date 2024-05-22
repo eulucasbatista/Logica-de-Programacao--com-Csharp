@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U3Z96rAcaxbsYCkhTth+0U8cE9HKIJgtrdybYZplTLogGClglck1ikpkwnxr1IdJXdmM6MH2jnK9dGV2OMUZOg==",
+  "dgSpecHash": "ob7zXiGwDrOMwJxdmyYrfFPi+HKv67YXHLaIO49CWwaSqZlCpb6y7KKsA9pjdhPXhQohYsFX0Cs2K7BcUokeWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\Estrutura Condicional\\Estrutura Condicional.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }
