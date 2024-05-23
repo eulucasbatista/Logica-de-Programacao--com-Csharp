@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\bin\Debug\net6.0\Exericio 01 EstruturaCondicional.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\bin\Debug\net6.0\Exericio 01 EstruturaCondicional.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\bin\Debug\net6.0\Exericio 01 EstruturaCondicional.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\bin\Debug\net6.0\Exericio 01 EstruturaCondicional.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\bin\Debug\net6.0\Exericio 01 EstruturaCondicional.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\refint\Exericio 01 EstruturaCondicional.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\Exericio 01 EstruturaCondicional.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Exericio 01 EstruturaCondicional\Exericio 01 EstruturaCondicional\obj\Debug\net6.0\ref\Exericio 01 EstruturaCondicional.dll
