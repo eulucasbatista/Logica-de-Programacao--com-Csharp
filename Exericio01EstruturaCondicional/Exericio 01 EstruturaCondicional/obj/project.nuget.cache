@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgBEQKh5p2sh+lgmh4hI4hXDr06TokDn3WrAQ/23B/0jFV8UB8X8VCzzaTKmXj3c6ovl46U7DnR1hUFCFu19eA==",
+  "dgSpecHash": "QSPjn8hXdy/8UtyS+M73wqCGtvk4nXk6Q/q5UAC0aNe444WsSUDZvrA2G3ROOeTnsvhgwW2xNi4pnCr48kQnsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",

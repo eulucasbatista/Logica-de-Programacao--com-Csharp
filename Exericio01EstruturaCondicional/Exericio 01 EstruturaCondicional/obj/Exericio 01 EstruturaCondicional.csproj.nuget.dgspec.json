@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj": {
+    "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
         "projectName": "Exericio 01 EstruturaCondicional",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Exericio 01 EstruturaCondicional\\Exericio 01 EstruturaCondicional\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Exericio01EstruturaCondicional\\Exericio 01 EstruturaCondicional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
