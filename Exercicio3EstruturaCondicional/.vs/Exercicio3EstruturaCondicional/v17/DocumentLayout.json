@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio3EstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301E3E02-E525-4C96-B053-9A3F205140D4}|Exercicio3EstruturaCondicional\\Exercicio3EstruturaCondicional.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio3estruturacondicional\\exercicio3estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301E3E02-E525-4C96-B053-9A3F205140D4}|Exercicio3EstruturaCondicional\\Exercicio3EstruturaCondicional.csproj|solutionrelative:exercicio3estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio3EstruturaCondicional\\Exercicio3EstruturaCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3EstruturaCondicional\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio3EstruturaCondicional\\Exercicio3EstruturaCondicional\\Program.cs",
+              "RelativeToolTip": "Exercicio3EstruturaCondicional\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:28:26.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
