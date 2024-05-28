@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio3EstruturaCondicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa166ee0b097c4517dd98d5ace2ed2a267849455")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13968903ed74971c8d112ef4c398f60e5b77f0eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio3EstruturaCondicional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio3EstruturaCondicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
