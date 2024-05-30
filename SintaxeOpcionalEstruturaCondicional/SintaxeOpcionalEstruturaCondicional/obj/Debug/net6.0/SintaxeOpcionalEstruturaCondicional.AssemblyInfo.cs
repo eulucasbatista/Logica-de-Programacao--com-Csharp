@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SintaxeOpcionalEstruturaCondicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6a3bb13c844117723e6d8b6bc2d53dcc9b26573")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54dd65f7c12c4adbb23519a590f5968bface48bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SintaxeOpcionalEstruturaCondicional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SintaxeOpcionalEstruturaCondicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

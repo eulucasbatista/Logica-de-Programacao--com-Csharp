@@ -16,10 +16,11 @@ namespace curso
             conta = 50.0;
             if (minutos > 100)
             {
-                conta = conta + (minutos - 100) * 2.0;
-                Console.WriteLine("Valor a pagar: " + conta);
-            }
+                conta += (minutos - 100) * 2.0;
 
+            }
+            Console.WriteLine("Valor a pagar: " + conta.ToString("F2", CultureInfo.InvariantCulture));
+            Console.ReadLine();
         }
     }
 }
