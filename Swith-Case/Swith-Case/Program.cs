@@ -9,39 +9,39 @@ namespace curso
             int x = int.Parse(Console.ReadLine());
             string dia;
 
-            if(x == 1)
-            {
+            switch (x) {
+                case 1:
                 dia = "domingo";
-            }
-            else if (x == 2)
-            {
+                break;
+
+                case 2:
                 dia = "segunda";
-            }
-            else if (x == 3)
-            {
+                break;
+
+                case 3:
                 dia = "terça";
-            }
-            else if (x == 4)
-            {
+                break;
+
+                case 4:   
                 dia = "quarta";
-            }
-            else if (x == 5)
-            {
+                break;
+                
+                case 5:
                 dia = "quinta";
-            }
-            else if (x == 6)
-            {
+                break;
+
+                case 6:
                 dia = "sexta";
-            }
-            else if (x == 7)
-            {
+                break;
+
+                case 7:         
                 dia = "sábado";
-            }
-            else
-            {
+                break;
+
+                default:         
                 dia = "esse número não corresponde a nenhum dia da semana";
-            
-            }
+                break;
+                }
             Console.WriteLine("Dia da Semana: " + dia);
             Console.ReadLine();
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Swith-Case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24bcbfcddfef91c437977414023dbd6847b1bb66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f42a9f123a625d291b27c4084b10a3a665568163")]
 [assembly: System.Reflection.AssemblyProductAttribute("Swith-Case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Swith-Case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
