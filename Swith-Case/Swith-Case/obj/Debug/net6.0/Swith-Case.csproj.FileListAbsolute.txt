@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\bin\Debug\net6.0\Swith-Case.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\bin\Debug\net6.0\Swith-Case.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\bin\Debug\net6.0\Swith-Case.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\bin\Debug\net6.0\Swith-Case.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\bin\Debug\net6.0\Swith-Case.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\refint\Swith-Case.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\Swith-Case.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Swith-Case\Swith-Case\obj\Debug\net6.0\ref\Swith-Case.dll
