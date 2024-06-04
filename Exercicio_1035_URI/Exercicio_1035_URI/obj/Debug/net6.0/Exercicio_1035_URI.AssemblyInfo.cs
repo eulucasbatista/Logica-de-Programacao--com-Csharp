@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exericio02EstruturaCondicional")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_1035_URI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e55c692aae0c8600f111f054278b228e11a7baa8")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exericio02EstruturaCondicional")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exericio02EstruturaCondicional")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exercicio_1035_URI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_1035_URI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
