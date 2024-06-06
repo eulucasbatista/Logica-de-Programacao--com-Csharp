@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\bin\Debug\net6.0\Exercicio_1046_URI.exe
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\bin\Debug\net6.0\Exercicio_1046_URI.deps.json
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\bin\Debug\net6.0\Exercicio_1046_URI.runtimeconfig.json
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\bin\Debug\net6.0\Exercicio_1046_URI.dll
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\bin\Debug\net6.0\Exercicio_1046_URI.pdb
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.dll
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\refint\Exercicio_1046_URI.dll
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.pdb
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\Exercicio_1046_URI.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Exercicio_1046_URI\Exercicio_1046_URI\obj\Debug\net6.0\ref\Exercicio_1046_URI.dll
