@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercio1044
+namespace Exercicio1044
 {
-    class URI
+    class Program
     {
         static void Main(string[] args)
         {
@@ -14,12 +14,11 @@ namespace Exercio1044
 
             if (a % b == 0 || b % a == 0)
             {
-                Console.WriteLine("São Múltiplos", CultureInfo.InvariantCulture);
+                Console.WriteLine("São Múltiplos");
             }
-
             else
             {
-                Console.WriteLine("Não São Múltiplos", CultureInfo.InvariantCulture);
+                Console.WriteLine("Não São Múltiplos");
             }
             
         }
