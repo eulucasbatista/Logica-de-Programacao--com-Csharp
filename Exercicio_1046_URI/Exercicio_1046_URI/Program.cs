@@ -6,7 +6,7 @@ namespace Exercicio1046 {
     {
         static void Main(string[] args)
         {
-
+         
             String[] vet = Console.ReadLine().Split(' ');
 
             int HoraInicio = int.Parse(vet[0]);
