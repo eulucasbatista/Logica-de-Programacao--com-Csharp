@@ -12,3 +12,18 @@ C:\Users\Lucas\source\repos\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6
 C:\Users\Lucas\source\repos\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.pdb
 C:\Users\Lucas\source\repos\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.genruntimeconfig.cache
 C:\Users\Lucas\source\repos\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\ref\Exercicio_1048_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\bin\Debug\net6.0\Exercicio_1048_URI.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\bin\Debug\net6.0\Exercicio_1048_URI.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\bin\Debug\net6.0\Exercicio_1048_URI.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\bin\Debug\net6.0\Exercicio_1048_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\bin\Debug\net6.0\Exercicio_1048_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\refint\Exercicio_1048_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\Exercicio_1048_URI.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1048_URI\Exercicio_1048_URI\obj\Debug\net6.0\ref\Exercicio_1048_URI.dll

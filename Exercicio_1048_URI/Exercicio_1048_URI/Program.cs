@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Exericio1048
 {
@@ -15,7 +16,7 @@ namespace Exericio1048
 
             // Converte a entrada para double
             double salario;
-            bool sucesso = double.TryParse(entrada, out salario);
+            bool sucesso = double.TryParse(entrada, NumberStyles.Any, CultureInfo.InvariantCulture, out salario);
             double quinze;
             double doze;
             double dez;
