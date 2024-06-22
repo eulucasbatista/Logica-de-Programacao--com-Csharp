@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\bin\Debug\net7.0\TesteDeMesa.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\bin\Debug\net7.0\TesteDeMesa.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\bin\Debug\net7.0\TesteDeMesa.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\bin\Debug\net7.0\TesteDeMesa.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\bin\Debug\net7.0\TesteDeMesa.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\refint\TesteDeMesa.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\TesteDeMesa.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Estrutura Condicional\TesteDeMesa\obj\Debug\net7.0\ref\TesteDeMesa.dll

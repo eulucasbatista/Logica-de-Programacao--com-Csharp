@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\EstruturaRepetitiva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87264D34-906C-4904-8E4D-C8BC2D983959}|EstruturaRepetitiva.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\estruturarepetitiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87264D34-906C-4904-8E4D-C8BC2D983959}|EstruturaRepetitiva.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}|..\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\estrutura condicional\\testedemesa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\EstruturaRepetitiva\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\EstruturaRepetitiva\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAewAgAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
+              "RelativeToolTip": "..\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA3wA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T14:35:52.789Z",
+              "WhenOpened": "2024-06-19T17:08:23.348Z",
               "EditorCaption": ""
             }
           ]
