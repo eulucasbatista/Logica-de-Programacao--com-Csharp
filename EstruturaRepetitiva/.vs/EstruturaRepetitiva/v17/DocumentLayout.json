@@ -33,15 +33,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestedeMesa2",
+              "Title": "TestedeMesa2.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa2\\TestedeMesa2.csproj",
               "RelativeDocumentMoniker": "..\\TestedeMesa2\\TestedeMesa2.csproj",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa2\\TestedeMesa2.csproj",
               "RelativeToolTip": "..\\TestedeMesa2\\TestedeMesa2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T00:39:38.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:39:38.983Z"
             },
             {
               "$type": "Document",
@@ -51,7 +50,7 @@
               "RelativeDocumentMoniker": "..\\TestedeMesa2\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa2\\Program.cs",
               "RelativeToolTip": "..\\TestedeMesa2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T00:39:28.363Z",
               "EditorCaption": ""
@@ -59,28 +58,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TestedeMesa1",
+              "Title": "TestedeMesa1.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa1\\TestedeMesa1.csproj",
               "RelativeDocumentMoniker": "..\\TestedeMesa1\\TestedeMesa1.csproj",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa1\\TestedeMesa1.csproj",
               "RelativeToolTip": "..\\TestedeMesa1\\TestedeMesa1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T00:26:50.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:26:50.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TesteDeMesa",
+              "Title": "TesteDeMesa.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj",
               "RelativeDocumentMoniker": "..\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj",
               "RelativeToolTip": "..\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T00:25:29.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:25:29.336Z"
             },
             {
               "$type": "Document",
@@ -92,8 +89,7 @@
               "RelativeToolTip": "..\\TestedeMesa1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:26:27.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T00:26:27.323Z"
             },
             {
               "$type": "Document",
@@ -105,8 +101,7 @@
               "RelativeToolTip": "..\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:08:23.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:08:23.348Z"
             }
           ]
         }
