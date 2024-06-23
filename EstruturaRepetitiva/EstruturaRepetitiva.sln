@@ -5,7 +5,11 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetitiva", "EstruturaRepetitiva.csproj", "{87264D34-906C-4904-8E4D-C8BC2D983959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDeMesa", "..\Estrutura Condicional\TesteDeMesa\TesteDeMesa.csproj", "{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteDeMesa", "..\Estrutura Condicional\TesteDeMesa\TesteDeMesa.csproj", "{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesa1", "..\TestedeMesa1\TestedeMesa1.csproj", "{8CE15FF7-CB45-4111-ADF8-805E49230DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesa2", "..\TestedeMesa2\TestedeMesa2.csproj", "{6035B1B0-FDF3-4E76-87F3-A0C527872156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE15FF7-CB45-4111-ADF8-805E49230DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE15FF7-CB45-4111-ADF8-805E49230DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE15FF7-CB45-4111-ADF8-805E49230DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE15FF7-CB45-4111-ADF8-805E49230DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6035B1B0-FDF3-4E76-87F3-A0C527872156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6035B1B0-FDF3-4E76-87F3-A0C527872156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6035B1B0-FDF3-4E76-87F3-A0C527872156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6035B1B0-FDF3-4E76-87F3-A0C527872156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
