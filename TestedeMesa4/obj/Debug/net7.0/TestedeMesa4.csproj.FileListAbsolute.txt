@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\bin\Debug\net7.0\TestedeMesa4.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\bin\Debug\net7.0\TestedeMesa4.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\bin\Debug\net7.0\TestedeMesa4.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\bin\Debug\net7.0\TestedeMesa4.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\bin\Debug\net7.0\TestedeMesa4.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\refint\TestedeMesa4.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\TestedeMesa4.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa4\obj\Debug\net7.0\ref\TestedeMesa4.dll
