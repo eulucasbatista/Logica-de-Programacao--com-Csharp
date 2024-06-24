@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa3", "..\TestedeM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa4", "..\TestedeMesa4\TestedeMesa4.csproj", "{87A373D4-4C02-40A8-801B-487EB56CCA8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesa5", "..\TestedeMesa5\TestedeMesa5.csproj", "{59F5960B-9DF6-433F-88D8-BDF47239D7B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa5", "..\TestedeMesa5\TestedeMesa5.csproj", "{59F5960B-9DF6-433F-88D8-BDF47239D7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesa6", "..\TestedeMesa6\TestedeMesa6.csproj", "{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{59F5960B-9DF6-433F-88D8-BDF47239D7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F5960B-9DF6-433F-88D8-BDF47239D7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F5960B-9DF6-433F-88D8-BDF47239D7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
