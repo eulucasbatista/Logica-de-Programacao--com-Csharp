@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\bin\Debug\net7.0\TestedeMesa5.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\bin\Debug\net7.0\TestedeMesa5.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\bin\Debug\net7.0\TestedeMesa5.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\bin\Debug\net7.0\TestedeMesa5.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\bin\Debug\net7.0\TestedeMesa5.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\refint\TestedeMesa5.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\TestedeMesa5.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesa5\obj\Debug\net7.0\ref\TestedeMesa5.dll
