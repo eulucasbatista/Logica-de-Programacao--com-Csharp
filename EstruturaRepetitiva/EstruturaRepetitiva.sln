@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa5", "..\TestedeM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa6", "..\TestedeMesa6\TestedeMesa6.csproj", "{252A4A67-E4C8-4DF9-9012-8E96CBB63D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_URI_1113", "..\Exercicio_URI_1113\Exercicio_URI_1113.csproj", "{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_URI_1113", "..\Exercicio_URI_1113\Exercicio_URI_1113.csproj", "{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2_EstruturaRepetitiva", "..\Exercicio2_EstruturaRepetitiva\Exercicio2_EstruturaRepetitiva.csproj", "{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

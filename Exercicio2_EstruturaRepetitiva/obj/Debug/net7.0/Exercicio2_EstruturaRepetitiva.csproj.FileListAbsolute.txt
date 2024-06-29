@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\bin\Debug\net7.0\Exercicio2_EstruturaRepetitiva.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\bin\Debug\net7.0\Exercicio2_EstruturaRepetitiva.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\bin\Debug\net7.0\Exercicio2_EstruturaRepetitiva.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\bin\Debug\net7.0\Exercicio2_EstruturaRepetitiva.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\bin\Debug\net7.0\Exercicio2_EstruturaRepetitiva.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\refint\Exercicio2_EstruturaRepetitiva.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\Exercicio2_EstruturaRepetitiva.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio2_EstruturaRepetitiva\obj\Debug\net7.0\ref\Exercicio2_EstruturaRepetitiva.dll
