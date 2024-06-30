@@ -3,19 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\EstruturaRepetitiva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}|..\\Exercicio2_EstruturaRepetitiva\\Exercicio2_EstruturaRepetitiva.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio2_estruturarepetitiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AC00449-940D-4A46-8AEC-CD8839DCF66F}|..\\TestedeMesa3\\TestedeMesa3.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\testedemesa3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85125FA0-D8CC-4DEB-BDF8-165E62661F4C}|..\\Exercicio_URI_1113\\Exercicio_URI_1113.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio_uri_1113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6035B1B0-FDF3-4E76-87F3-A0C527872156}|..\\TestedeMesa2\\TestedeMesa2.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\testedemesa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}|..\\Exercicio_1115_URI\\Exercicio_1115_URI.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio_1115_uri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E2FAE0-3DCE-4EDB-B7E1-E1B453A8171D}|..\\Estrutura Condicional\\TesteDeMesa\\TesteDeMesa.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\estrutura condicional\\testedemesa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1C4805D-B255-4BE1-9BAE-BB777B24A274}|..\\Exercicio_1114_URI\\Exercicio_1114_URI.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio_1114_uri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}|..\\Exercicio2_EstruturaRepetitiva\\Exercicio2_EstruturaRepetitiva.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio2_estruturarepetitiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +22,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TestedeMesa3\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa3\\Program.cs",
-              "RelativeToolTip": "..\\TestedeMesa3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T22:22:38.216Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio2_EstruturaRepetitiva\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio2_EstruturaRepetitiva\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio2_EstruturaRepetitiva\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio2_EstruturaRepetitiva\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBkAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_URI_1113\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio_URI_1113\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_URI_1113\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio_URI_1113\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T18:26:42.557Z",
+              "WhenOpened": "2024-06-29T21:45:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1115_URI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio_1115_URI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1115_URI\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio_1115_URI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:39:11.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_URI_1113\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio_URI_1113\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_URI_1113\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio_URI_1113\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBsAAAAmAAAA",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1114_URI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio_1114_URI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1114_URI\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio_1114_URI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:49:39.953Z",
+              "WhenOpened": "2024-06-29T19:51:07.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TestedeMesa2\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\TestedeMesa2\\Program.cs",
-              "RelativeToolTip": "..\\TestedeMesa2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio2_EstruturaRepetitiva\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio2_EstruturaRepetitiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio2_EstruturaRepetitiva\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio2_EstruturaRepetitiva\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:39:28.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
-              "RelativeToolTip": "..\\Estrutura Condicional\\TesteDeMesa\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:08:23.348Z"
+              "WhenOpened": "2024-06-29T18:26:42.557Z",
+              "EditorCaption": ""
             }
           ]
         }
