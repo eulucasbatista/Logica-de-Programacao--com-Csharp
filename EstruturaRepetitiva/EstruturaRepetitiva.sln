@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_URI_1113", "..\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio2_EstruturaRepetitiva", "..\Exercicio2_EstruturaRepetitiva\Exercicio2_EstruturaRepetitiva.csproj", "{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1114_URI", "..\Exercicio_1114_URI\Exercicio_1114_URI.csproj", "{C1C4805D-B255-4BE1-9BAE-BB777B24A274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1114_URI", "..\Exercicio_1114_URI\Exercicio_1114_URI.csproj", "{C1C4805D-B255-4BE1-9BAE-BB777B24A274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1115_URI", "..\Exercicio_1115_URI\Exercicio_1115_URI.csproj", "{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1115_URI", "..\Exercicio_1115_URI\Exercicio_1115_URI.csproj", "{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1117_URI", "..\Exercicio_1117_URI\Exercicio_1117_URI.csproj", "{0F202A5E-105F-43D6-AC85-DF8E74591A01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA930E6-6CEA-4BA7-B99D-DC5904D1BBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F202A5E-105F-43D6-AC85-DF8E74591A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F202A5E-105F-43D6-AC85-DF8E74591A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F202A5E-105F-43D6-AC85-DF8E74591A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F202A5E-105F-43D6-AC85-DF8E74591A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
