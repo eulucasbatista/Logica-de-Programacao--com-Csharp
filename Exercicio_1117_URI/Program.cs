@@ -7,28 +7,22 @@ namespace Exercicio_1117_URI
     {
         static void Main(string[] args)
         {
-            double nota, media;
-
-            nota = 0.0;
-            
-            nota = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-            Console.WriteLine("A nota digitada foi: " + nota);
-
-            while (nota > 0.1) {
-
-                if (nota > 0.1) {
-                    Console.WriteLine("");
-                } 
-                
-                
-                else { 
-                
-                
-                }
+            double nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            while (nota1 < 0.0 || nota1 > 10.0)
+            {
+                Console.WriteLine("nota invalida");
+                nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
+            double nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            while (nota2 < 0.0 || nota2 > 10.0)
+            {
+                Console.WriteLine("nota invalida");
+                nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            }
 
+            double media = (nota1 + nota2) / 2.0;
+            Console.WriteLine("media = " + media.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
