@@ -15,7 +15,7 @@ namespace Exercicio_1115
             {
                 if (x > 0 && y > 0)
                 {
-                    Console.WriteLine("primeiro");
+                    Console.WriteLine("primeiro: " + x);
                 }
                 else if (x < 0 && y > 0)
                 {
