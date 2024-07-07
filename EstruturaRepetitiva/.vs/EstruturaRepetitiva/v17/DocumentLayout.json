@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\EstruturaRepetitiva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE174338-BACB-4C7F-A568-8A10DDC89848}|..\\Exercicio_1154_URI\\Exercicio_1154_URI.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio_1154_uri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{789547D3-8819-4FEC-8A99-88F29A3EE041}|..\\Exercicio_1159_URI\\Exercicio_1159_URI.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio_1159_uri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FBB6E86-7DE9-48BE-AB30-DDDD25E42C5A}|..\\Exercicio2_EstruturaRepetitiva\\Exercicio2_EstruturaRepetitiva.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\exercicio2_estruturarepetitiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -34,14 +34,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1154_URI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Exercicio_1154_URI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1154_URI\\Program.cs",
-              "RelativeToolTip": "..\\Exercicio_1154_URI\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA1wA8AAAAVAAAA",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1159_URI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicio_1159_URI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Exercicio_1159_URI\\Program.cs",
+              "RelativeToolTip": "..\\Exercicio_1159_URI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T18:48:41.744Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-07-07T17:06:02.717Z",
               "EditorCaption": ""
             },
             {
@@ -67,8 +66,7 @@
               "RelativeToolTip": "..\\Exercicio_1134_URI\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:53:47.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T16:53:47.239Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "..\\Exercicio_1115_URI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswCIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T21:39:11.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T21:39:11.472Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "..\\Exercicio_1117_URI\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T10:18:14.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T10:18:14.207Z"
             },
             {
               "$type": "Document",
