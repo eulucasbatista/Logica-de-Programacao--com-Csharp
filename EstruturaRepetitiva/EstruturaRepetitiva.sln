@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1159_URI", "..\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa-For", "..\TestedeMesa-For\TestedeMesa-For.csproj", "{9EA30128-FAFB-4A36-A32E-12325AB893D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesa3For", "..\TestedeMesa3For\TestedeMesa3For.csproj", "{17A5B6D8-4D6E-4426-809E-C90B7CCBB33B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestedeMesa3For", "..\TestedeMesa3For\TestedeMesa3For.csproj", "{17A5B6D8-4D6E-4426-809E-C90B7CCBB33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestedeMesaFor4", "..\TestedeMesaFor4\TestedeMesaFor4.csproj", "{1C6A739C-6302-4CA1-807E-04ABA3EB918B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{17A5B6D8-4D6E-4426-809E-C90B7CCBB33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A5B6D8-4D6E-4426-809E-C90B7CCBB33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A5B6D8-4D6E-4426-809E-C90B7CCBB33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6A739C-6302-4CA1-807E-04ABA3EB918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6A739C-6302-4CA1-807E-04ABA3EB918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6A739C-6302-4CA1-807E-04ABA3EB918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6A739C-6302-4CA1-807E-04ABA3EB918B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
