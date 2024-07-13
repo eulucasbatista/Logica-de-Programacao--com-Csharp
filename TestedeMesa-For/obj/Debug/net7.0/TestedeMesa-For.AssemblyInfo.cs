@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_1154_URI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestedeMesa-For")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f753709c85be69f84fed4cb85294d6dd88599d4")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exercicio_1154_URI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_1154_URI")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestedeMesa-For")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestedeMesa-For")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

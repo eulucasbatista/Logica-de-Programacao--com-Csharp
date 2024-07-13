@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestedeMesa2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616c4a11cd17296190879c7138fc5e289fe25c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f753709c85be69f84fed4cb85294d6dd88599d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestedeMesa2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestedeMesa2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
