@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\bin\Debug\net7.0\TestedeMesaFor6.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\bin\Debug\net7.0\TestedeMesaFor6.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\bin\Debug\net7.0\TestedeMesaFor6.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\bin\Debug\net7.0\TestedeMesaFor6.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\bin\Debug\net7.0\TestedeMesaFor6.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\refint\TestedeMesaFor6.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\TestedeMesaFor6.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\TestedeMesaFor6\obj\Debug\net7.0\ref\TestedeMesaFor6.dll
