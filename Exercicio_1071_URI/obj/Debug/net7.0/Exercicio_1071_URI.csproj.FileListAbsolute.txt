@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\bin\Debug\net7.0\Exercicio_1071_URI.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\bin\Debug\net7.0\Exercicio_1071_URI.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\bin\Debug\net7.0\Exercicio_1071_URI.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\bin\Debug\net7.0\Exercicio_1071_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\bin\Debug\net7.0\Exercicio_1071_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\refint\Exercicio_1071_URI.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\Exercicio_1071_URI.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Exercicio_1071_URI\obj\Debug\net7.0\ref\Exercicio_1071_URI.dll
