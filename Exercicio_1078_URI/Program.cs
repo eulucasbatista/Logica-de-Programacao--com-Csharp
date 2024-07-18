@@ -11,11 +11,13 @@ namespace Exercicio_1078
             N = int.Parse(Console.ReadLine());
 
 
-            for ()
+            for (int i = 1; i <= 10; i++)
+            {
+                int resultado = i * N;
+                Console.WriteLine(i + " x " + N + " = " + resultado);
+            }
 
 
-                Console.ReadLine();
-                Console.ReadLine();
         }
     }
 }
