@@ -32,7 +32,7 @@ namespace curso
             }
             Console.WriteLine(soma);
             
-            Console.ReadLine();
+
         }
     }
 }
