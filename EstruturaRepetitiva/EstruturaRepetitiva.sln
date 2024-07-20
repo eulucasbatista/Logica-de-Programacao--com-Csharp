@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1078_URI", "..\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1071_URI", "..\Exercicio_1071_URI\Exercicio_1071_URI.csproj", "{E9DFC00F-6FC6-4DE5-A7B8-727505BD4AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOwhile", "..\DOwhile\DOwhile.csproj", "{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DOwhile", "..\DOwhile\DOwhile.csproj", "{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1067_URI", "..\Exercicio_1067_URI\Exercicio_1067_URI.csproj", "{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
