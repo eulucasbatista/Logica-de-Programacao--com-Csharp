@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1071_URI", "..\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DOwhile", "..\DOwhile\DOwhile.csproj", "{49DB54C0-D639-4BCC-885B-6F2801DD7E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1067_URI", "..\Exercicio_1067_URI\Exercicio_1067_URI.csproj", "{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1067_URI", "..\Exercicio_1067_URI\Exercicio_1067_URI.csproj", "{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1071_DoWhile_URI", "..\Exercicio_1071_DoWhile_URI\Exercicio_1071_DoWhile_URI.csproj", "{B14880DF-BD44-4BCA-805F-2E884F2BE324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E50CDCD-D4E4-4A13-BED8-C726D78ED01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14880DF-BD44-4BCA-805F-2E884F2BE324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14880DF-BD44-4BCA-805F-2E884F2BE324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14880DF-BD44-4BCA-805F-2E884F2BE324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14880DF-BD44-4BCA-805F-2E884F2BE324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

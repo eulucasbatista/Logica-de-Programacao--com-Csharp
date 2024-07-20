@@ -11,7 +11,7 @@ namespace curso
             x = int.Parse(Console.ReadLine());
             y = int.Parse(Console.ReadLine());
 
-            if ( x < y)
+            if ( x < y )
             {
                 min = x;
                 max = y;
