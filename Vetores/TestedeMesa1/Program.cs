@@ -8,7 +8,7 @@ namespace TestedeMesa
 
 
             int a, b, c;
-            int[] v = new int[4];
+            int[] v = new int[];
 
             a = 10;
             b = 20;
