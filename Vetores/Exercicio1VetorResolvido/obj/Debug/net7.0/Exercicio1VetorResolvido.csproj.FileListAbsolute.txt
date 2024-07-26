@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.AssemblyInfo.cs
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.sourcelink.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\bin\Debug\net7.0\Exercicio1VetorResolvido.exe
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\bin\Debug\net7.0\Exercicio1VetorResolvido.deps.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\bin\Debug\net7.0\Exercicio1VetorResolvido.runtimeconfig.json
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\bin\Debug\net7.0\Exercicio1VetorResolvido.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\bin\Debug\net7.0\Exercicio1VetorResolvido.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\refint\Exercicio1VetorResolvido.dll
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.pdb
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\Exercicio1VetorResolvido.genruntimeconfig.cache
+C:\Users\Lucas\Documents\C# Nélio Alves\Lógica de Programação\Logica-de-Programa--o--com-C--\Vetores\Exercicio1VetorResolvido\obj\Debug\net7.0\ref\Exercicio1VetorResolvido.dll

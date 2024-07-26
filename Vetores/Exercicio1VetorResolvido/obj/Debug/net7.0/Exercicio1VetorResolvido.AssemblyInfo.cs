@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestedeMesa3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio1VetorResolvido")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58f86e59eb42885d492d6c6f9fa2171e8833faea")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestedeMesa3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestedeMesa3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exercicio1VetorResolvido")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio1VetorResolvido")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
