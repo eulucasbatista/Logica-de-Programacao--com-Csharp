@@ -14,6 +14,7 @@ namespace Exercicio1Vetor
             double[] vet = new double[N];
 
             double maiorValor = double.MinValue;
+            int posicaoMaiorValor = -1;
             //Leitura dos valores
             for (int i = 0; i < N; i++)
             {
@@ -24,6 +25,7 @@ namespace Exercicio1Vetor
                 if (vet[i] > maiorValor)
                 {
                     maiorValor = vet[i];
+                    posicaoMaiorValor = i;
                 }
             }
             // Exibição dos valores 
@@ -35,6 +37,7 @@ namespace Exercicio1Vetor
             Console.WriteLine();
             // Exibição do maior valor
             Console.WriteLine("Maior valor: " + maiorValor.ToString("F1", CultureInfo.InvariantCulture));
+            Console.WriteLine("Posição do maior valor: " + posicaoMaiorValor);
 
             Console.WriteLine();
             Console.ReadLine();
