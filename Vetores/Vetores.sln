@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3VetorResolvido", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "Foreach\Foreach.csproj", "{347E6B4F-9163-491C-BF47-4037F0903122}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1Vetor", "Exercicio1Vetor\Exercicio1Vetor.csproj", "{09FD92E5-8701-47BA-BB6E-E6F38800A944}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{347E6B4F-9163-491C-BF47-4037F0903122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347E6B4F-9163-491C-BF47-4037F0903122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347E6B4F-9163-491C-BF47-4037F0903122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
