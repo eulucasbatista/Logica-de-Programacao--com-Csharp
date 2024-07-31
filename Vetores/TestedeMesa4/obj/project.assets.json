@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa4\\TestedeMesa4.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\TestedeMesa4\\TestedeMesa4.csproj",
       "projectName": "TestedeMesa4",
-      "projectPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa4\\TestedeMesa4.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\TestedeMesa4\\TestedeMesa4.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Documents\\C# Nélio Alves\\Lógica de Programação\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa4\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\TestedeMesa4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6,7 +6,8 @@ namespace Exercicio2Vetor
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Josilene Gatinha!");
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\bin\Debug\Exercicio2Vetor.exe.config
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\bin\Debug\Exercicio2Vetor.exe
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\bin\Debug\Exercicio2Vetor.pdb
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\obj\Debug\Exercicio2Vetor.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\obj\Debug\Exercicio2Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\obj\Debug\Exercicio2Vetor.exe
+C:\Users\Lucas\Documents\GitHub\Logica-de-Programacao--com-Csharp\Vetores\Exercicio2Vetor\obj\Debug\Exercicio2Vetor.pdb
