@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{810C44CC-AD19-4B34-83EA-3F105BB708EF}|Exercicio2Vetor\\Exercicio2Vetor.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\vetores\\exercicio2vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810C44CC-AD19-4B34-83EA-3F105BB708EF}|Exercicio2Vetor\\Exercicio2Vetor.csproj|solutionrelative:exercicio2vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09FD92E5-8701-47BA-BB6E-E6F38800A944}|Exercicio1Vetor\\Exercicio1Vetor.csproj|c:\\users\\lucas\\documents\\c# n\u00E9lio alves\\l\u00F3gica de programa\u00E7\u00E3o\\logica-de-programa--o--com-c--\\vetores\\exercicio1vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FD92E5-8701-47BA-BB6E-E6F38800A944}|Exercicio1Vetor\\Exercicio1Vetor.csproj|solutionrelative:exercicio1vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -56,18 +60,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio2Vetor\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2Vetor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio2Vetor\\Program.cs",
+              "RelativeToolTip": "Exercicio2Vetor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:04:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio1Vetor\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1Vetor\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio1Vetor\\Program.cs",
               "RelativeToolTip": "Exercicio1Vetor\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwCcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T17:34:08.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio3VetorResolvido\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio3VetorResolvido\\Program.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Foreach\\Program.cs",
               "RelativeDocumentMoniker": "Foreach\\Program.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio2VetorResolvido\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2VetorResolvido\\Program.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Exercicio1VetorResolvido\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1VetorResolvido\\Program.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa4\\Program.cs",
               "RelativeDocumentMoniker": "TestedeMesa4\\Program.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa3\\Program.cs",
               "RelativeDocumentMoniker": "TestedeMesa3\\Program.cs",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa2\\Program.cs",
               "RelativeDocumentMoniker": "TestedeMesa2\\Program.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\TestedeMesa1\\Program.cs",
               "RelativeDocumentMoniker": "TestedeMesa1\\Program.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\C# N\u00E9lio Alves\\L\u00F3gica de Programa\u00E7\u00E3o\\Logica-de-Programa--o--com-C--\\Vetores\\Vetores\\Program.cs",
               "RelativeDocumentMoniker": "Vetores\\Program.cs",

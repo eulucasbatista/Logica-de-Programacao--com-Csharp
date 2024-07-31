@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "Foreach\Foreach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1Vetor", "Exercicio1Vetor\Exercicio1Vetor.csproj", "{09FD92E5-8701-47BA-BB6E-E6F38800A944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2Vetor", "Exercicio2Vetor\Exercicio2Vetor.csproj", "{810C44CC-AD19-4B34-83EA-3F105BB708EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09FD92E5-8701-47BA-BB6E-E6F38800A944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810C44CC-AD19-4B34-83EA-3F105BB708EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810C44CC-AD19-4B34-83EA-3F105BB708EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810C44CC-AD19-4B34-83EA-3F105BB708EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810C44CC-AD19-4B34-83EA-3F105BB708EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
