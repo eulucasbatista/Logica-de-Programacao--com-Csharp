@@ -6,8 +6,8 @@ namespace Exercicio2Vetor
     {
         static void Main(string[] args)
         {
-        
-            Console.ReadLine();
+
+            Console.WriteLine("Hello World");
         }
     }
 }

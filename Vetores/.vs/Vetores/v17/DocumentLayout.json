@@ -54,8 +54,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -64,7 +68,7 @@
               "RelativeDocumentMoniker": "Exercicio2Vetor\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2Vetor\\Program.cs",
               "RelativeToolTip": "Exercicio2Vetor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T00:04:43.343Z",
               "EditorCaption": ""
@@ -152,10 +156,6 @@
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T23:09:19.397Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
