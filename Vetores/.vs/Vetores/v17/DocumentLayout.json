@@ -54,12 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -68,7 +64,7 @@
               "RelativeDocumentMoniker": "Exercicio2Vetor\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2Vetor\\Program.cs",
               "RelativeToolTip": "Exercicio2Vetor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T00:04:43.343Z",
               "EditorCaption": ""
@@ -83,8 +79,7 @@
               "RelativeToolTip": "Exercicio2VetorResolvido\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAcwBIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T10:49:58.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T10:49:58.411Z"
             },
             {
               "$type": "Document",
@@ -96,8 +91,7 @@
               "RelativeToolTip": "Exercicio1VetorResolvido\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T10:28:10.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T10:28:10.923Z"
             },
             {
               "$type": "Document",
@@ -109,8 +103,7 @@
               "RelativeToolTip": "TestedeMesa4\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAxwBcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T22:12:05.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T22:12:05.2Z"
             },
             {
               "$type": "Document",
@@ -122,8 +115,7 @@
               "RelativeToolTip": "TestedeMesa3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAswA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:02:33.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:02:33.169Z"
             },
             {
               "$type": "Document",
@@ -135,8 +127,7 @@
               "RelativeToolTip": "TestedeMesa2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:20:58.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:20:58.056Z"
             },
             {
               "$type": "Document",
@@ -148,8 +139,7 @@
               "RelativeToolTip": "TestedeMesa1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T02:16:59.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T02:16:59.303Z"
             },
             {
               "$type": "Document",
@@ -161,8 +151,11 @@
               "RelativeToolTip": "Vetores\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAIwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T23:09:19.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T23:09:19.397Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
