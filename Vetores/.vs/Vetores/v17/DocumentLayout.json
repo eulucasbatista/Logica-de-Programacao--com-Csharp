@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46FB8750-049E-44F8-8536-4EE9EFCA67AF}|Exercicio2VetorResolvido\\Exercicio2VetorResolvido.csproj|c:\\users\\lucas\\documents\\github\\logica-de-programacao--com-csharp\\vetores\\exercicio2vetorresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FB8750-049E-44F8-8536-4EE9EFCA67AF}|Exercicio2VetorResolvido\\Exercicio2VetorResolvido.csproj|solutionrelative:exercicio2vetorresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{810C44CC-AD19-4B34-83EA-3F105BB708EF}|Exercicio2Vetor\\Exercicio2Vetor.csproj|c:\\users\\lucas\\documents\\github\\logica-de-programacao--com-csharp\\vetores\\exercicio2vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{810C44CC-AD19-4B34-83EA-3F105BB708EF}|Exercicio2Vetor\\Exercicio2Vetor.csproj|solutionrelative:exercicio2vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{347E6B4F-9163-491C-BF47-4037F0903122}|Foreach\\Foreach.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{347E6B4F-9163-491C-BF47-4037F0903122}|Foreach\\Foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46FB8750-049E-44F8-8536-4EE9EFCA67AF}|Exercicio2VetorResolvido\\Exercicio2VetorResolvido.csproj|c:\\users\\lucas\\documents\\github\\logica-de-programacao--com-csharp\\vetores\\exercicio2vetorresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46FB8750-049E-44F8-8536-4EE9EFCA67AF}|Exercicio2VetorResolvido\\Exercicio2VetorResolvido.csproj|solutionrelative:exercicio2vetorresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9BEC646-C869-4F26-98C5-F0DCFA8E622C}|Exercicio1VetorResolvido\\Exercicio1VetorResolvido.csproj|c:\\users\\lucas\\documents\\github\\logica-de-programacao--com-csharp\\vetores\\exercicio1vetorresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,33 +57,30 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2Vetor\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2Vetor\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2Vetor\\Program.cs",
               "RelativeToolTip": "Exercicio2Vetor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T00:04:43.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2VetorResolvido\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2VetorResolvido\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio2VetorResolvido\\Program.cs",
               "RelativeToolTip": "Exercicio2VetorResolvido\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBIAAAAdAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T10:49:58.411Z"
+              "WhenOpened": "2024-07-26T10:49:58.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio1Vetor\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1Vetor\\Program.cs",
@@ -171,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Exercicio3VetorResolvido\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio3VetorResolvido\\Program.cs",
@@ -183,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\Logica-de-Programacao--com-Csharp\\Vetores\\Foreach\\Program.cs",
               "RelativeDocumentMoniker": "Foreach\\Program.cs",

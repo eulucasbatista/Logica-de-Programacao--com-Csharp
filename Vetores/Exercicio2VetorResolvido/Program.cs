@@ -36,6 +36,9 @@ namespace curso
             Console.WriteLine(media.ToString("F2", CultureInfo.InvariantCulture));
 
             Console.ReadLine();
+
+
+
         }
     }
 }
